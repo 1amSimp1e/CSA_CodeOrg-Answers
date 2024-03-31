@@ -13,3 +13,5 @@
 > I'm not taking any responsibilty for your grade!
 > 
 > **Use at your own Risk**
+
+**⭐Star the repo if you like it**
